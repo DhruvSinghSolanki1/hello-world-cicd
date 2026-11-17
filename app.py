@@ -1,3 +1,4 @@
+# CI/CD automatic pipeline trigger verification
 
 def hello_world():
     return "Hello, DevOps!"
