@@ -1,4 +1,4 @@
-# CI/CD automatic pipeline trigger verification
+# Feature update branch - testing pull request CI/CD pipeline
 
 def hello_world():
     return "Hello, DevOps!"
